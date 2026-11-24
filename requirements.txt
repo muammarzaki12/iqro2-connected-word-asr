@@ -1,0 +1,10 @@
+jiwer
+librosa==0.11.0
+matplotlib==3.10.0
+numpy==2.4.6
+pandas==2.2.3
+seaborn==0.13.2
+scikit-learn==1.6.1
+torch==2.14.1+cpu
+tqdm==4.67.3
+transformers==5.22.1
