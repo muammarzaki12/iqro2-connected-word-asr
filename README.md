@@ -9,7 +9,7 @@ evaluated on a **speaker-independent split** (7 training / 1 validation / 2 test
 ```
 iqro2-connected-word-asr/
 ├── IQRO_Sambung_Speaker_12Eksperimen.ipynb        # full pipeline: preprocessing, features, training, evaluation (Google Colab)
-├── results/                     # metrics, per-epoch history and test predictions of all 12 runs
+├── result/                     # metrics, per-epoch history and test predictions of all 12 runs
 │   ├── Skenario_1/ (baseline)   # <model>/history.csv, <model>/test_predictions.csv, ...
 │   ├── Skenario_2/ (+MFCC)
 │   └── Skenario_3/ (+log-Mel)
