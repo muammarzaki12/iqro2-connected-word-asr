@@ -1,0 +1,9 @@
+{
+  "model": "whisper_mfcc",
+  "finished_at": "2026-11-10T08:48:08",
+  "epochs_run": 14,
+  "best_epoch": 4,
+  "best_val_WER": 0.11355311355311355,
+  "best_val_accuracy": 0.8864468864468864,
+  "train_seconds": 430.6315495967865
+}
