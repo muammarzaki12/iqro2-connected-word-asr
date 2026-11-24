@@ -1,0 +1,542 @@
+model,scenario,filename,speaker_id,gender,reference,prediction,prediction_raw,correct,is_valid_class,char_edit_distance,phone_edit_distance,reference_phone_len
+wavlm_baseline,Skenario_1,S02 _M_01-AKALA_1.wav,S02 ,M,akala,akala,akala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_01-AKALA_2.wav,S02 ,M,akala,akala,akala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_01-AKALA_3.wav,S02 ,M,akala,akala,akala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_02-YAABA_1.wav,S02 ,M,yaaba,yaaba,yaaba,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_02-YAABA_2.wav,S02 ,M,yaaba,yaaba,yaaba,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_02-YAABA_3.wav,S02 ,M,yaaba,yaaba,yaaba,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_03-NABAA_1.wav,S02 ,M,nabaa,nabaa,nabaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_03-NABAA_2.wav,S02 ,M,nabaa,nabaa,nabaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_03-NABAA_3.wav,S02 ,M,nabaa,nabaa,nabaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_04-BANANA_1.wav,S02 ,M,banana,banana,banana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_04-BANANA_2.wav,S02 ,M,banana,banana,banana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_04-BANANA_3.wav,S02 ,M,banana,banana,banana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_05-NABABA_1.wav,S02 ,M,nababa,nababa,nababa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_05-NABABA_2.wav,S02 ,M,nababa,nababa,nababa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_05-NABABA_3.wav,S02 ,M,nababa,nababa,nababa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_06-NATABA_1.wav,S02 ,M,nataba,nataba,nataba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_06-NATABA_2.wav,S02 ,M,nataba,nataba,nataba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_06-NATABA_3.wav,S02 ,M,nataba,nataba,nataba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_07-TABANA_1.wav,S02 ,M,tabana,tabana,tabana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_07-TABANA_2.wav,S02 ,M,tabana,tabana,tabana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_07-TABANA_3.wav,S02 ,M,tabana,tabana,tabana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_08-BATARO_1.wav,S02 ,M,bataro,bataro,bataro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_08-BATARO_2.wav,S02 ,M,bataro,bataro,bataro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_08-BATARO_3.wav,S02 ,M,bataro,badtaro,badtaro,0,0,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_09-BANATA_1.wav,S02 ,M,banata,banata,banata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_09-BANATA_2.wav,S02 ,M,banata,banata,banata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_09-BANATA_3.wav,S02 ,M,banata,banata,banata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_10-TSABATA_1.wav,S02 ,M,tsabata,tsabata,tsabata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_10-TSABATA_2.wav,S02 ,M,tsabata,tsabata,tsabata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_10-TSABATA_3.wav,S02 ,M,tsabata,tsabata,tsabata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_11-TATSABA_1.wav,S02 ,M,tatsaba,tatsaba,tatsaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_11-TATSABA_2.wav,S02 ,M,tatsaba,tatsaba,tatsaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_11-TATSABA_3.wav,S02 ,M,tatsaba,tatsaba,tatsaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_12-ATSATSA_1.wav,S02 ,M,atsatsa,atsatsa,atsatsa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_12-ATSATSA_2.wav,S02 ,M,atsatsa,atsatsa,atsatsa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_12-ATSATSA_3.wav,S02 ,M,atsatsa,atsatsa,atsatsa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_13-JAROMA_1.wav,S02 ,M,jaroma,jaroma,jaroma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_13-JAROMA_2.wav,S02 ,M,jaroma,jaroma,jaroma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_13-JAROMA_3.wav,S02 ,M,jaroma,jaroma,jaroma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_14-KHAJARO_1.wav,S02 ,M,khajaro,khajaro,khajaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_14-KHAJARO_2.wav,S02 ,M,khajaro,khajaro,khajaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_14-KHAJARO_3.wav,S02 ,M,khajaro,khajaro,khajaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_15-SAHAJA_1.wav,S02 ,M,sahaja,sahaja,sahaja,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_15-SAHAJA_2.wav,S02 ,M,sahaja,sahaja,sahaja,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_15-SAHAJA_3.wav,S02 ,M,sahaja,sahaja,sahaja,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_16-KHADARO_1.wav,S02 ,M,khadaro,khadaro,khadaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_16-KHADARO_2.wav,S02 ,M,khadaro,khadaro,khadaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_16-KHADARO_3.wav,S02 ,M,khadaro,khadaro,khadaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_17-DHOKHAKA_1.wav,S02 ,M,dhokhaka,dhokhaka,dhokhaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_17-DHOKHAKA_2.wav,S02 ,M,dhokhaka,dhokhaka,dhokhaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_17-DHOKHAKA_3.wav,S02 ,M,dhokhaka,lahaka,lahaka,0,0,4,3,6
+wavlm_baseline,Skenario_1,S02 _M_18-FATAKHA_1.wav,S02 ,M,fatakha,fatakha,fatakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_18-FATAKHA_2.wav,S02 ,M,fatakha,fatakha,fatakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_18-FATAKHA_3.wav,S02 ,M,fatakha,fatakha,fatakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_19-KHOTHOBA_1.wav,S02 ,M,khothoba,khothoba,khothoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_19-KHOTHOBA_2.wav,S02 ,M,khothoba,khothoba,khothoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_19-KHOTHOBA_3.wav,S02 ,M,khothoba,khothoba,khothoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_20-ROKHOQO_1.wav,S02 ,M,rokhoqo,rokhoqo,rokhoqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_20-ROKHOQO_2.wav,S02 ,M,rokhoqo,rokhoqo,rokhoqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_20-ROKHOQO_3.wav,S02 ,M,rokhoqo,rokhoqo,rokhoqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_21-DANATA_1.wav,S02 ,M,danata,danata,danata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_21-DANATA_2.wav,S02 ,M,danata,danata,danata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_21-DANATA_3.wav,S02 ,M,danata,danata,danata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_22-YADANA_1.wav,S02 ,M,yadana,yadana,yadana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_22-YADANA_2.wav,S02 ,M,yadana,yadana,yadana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_22-YADANA_3.wav,S02 ,M,yadana,yadana,yadana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_23-WANADA_1.wav,S02 ,M,wanada,wanata,wanata,0,0,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_23-WANADA_2.wav,S02 ,M,wanada,wanada,wanada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_23-WANADA_3.wav,S02 ,M,wanada,wanata,wanata,0,0,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_24-DZAHABA_1.wav,S02 ,M,dzahaba,dzahaba,dzahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_24-DZAHABA_2.wav,S02 ,M,dzahaba,nahaba,nahaba,0,0,2,1,6
+wavlm_baseline,Skenario_1,S02 _M_24-DZAHABA_3.wav,S02 ,M,dzahaba,dzahaba,dzahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_25-NADZARO_1.wav,S02 ,M,nadzaro,nadzaro,nadzaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_25-NADZARO_2.wav,S02 ,M,nadzaro,nadzaro,nadzaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_25-NADZARO_3.wav,S02 ,M,nadzaro,nadzaro,nadzaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_26-NABADZA_1.wav,S02 ,M,nabadza,nabadza,nabadza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_26-NABADZA_2.wav,S02 ,M,nabadza,nabadza,nabadza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_26-NABADZA_3.wav,S02 ,M,nabadza,nabadza,nabadza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_27-ROBANA_1.wav,S02 ,M,robana,robana,robana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_27-ROBANA_2.wav,S02 ,M,robana,robana,robana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_27-ROBANA_3.wav,S02 ,M,robana,robana,robana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_28-DZAROKHA_1.wav,S02 ,M,dzarokha,dzarokha,dzarokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_28-DZAROKHA_2.wav,S02 ,M,dzarokha,dzarokha,dzarokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_28-DZAROKHA_3.wav,S02 ,M,dzarokha,dzarokha,dzarokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_29-BADARO_1.wav,S02 ,M,badaro,badaro,badaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_29-BADARO_2.wav,S02 ,M,badaro,badaro,badaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_29-BADARO_3.wav,S02 ,M,badaro,badaro,badaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_30-ZAKALA_1.wav,S02 ,M,zakala,zakaa,zakaa,0,1,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_30-ZAKALA_2.wav,S02 ,M,zakala,zakaa,zakaa,0,1,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_30-ZAKALA_3.wav,S02 ,M,zakala,zakaa,zakaa,0,1,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_31-NAZALA_1.wav,S02 ,M,nazala,nazala,nazala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_31-NAZALA_2.wav,S02 ,M,nazala,nazala,nazala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_31-NAZALA_3.wav,S02 ,M,nazala,nazala,nazala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_32-NAYAZA_1.wav,S02 ,M,nayaza,nayaza,nayaza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_32-NAYAZA_2.wav,S02 ,M,nayaza,nayaza,nayaza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_32-NAYAZA_3.wav,S02 ,M,nayaza,nayaza,nayaza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_33-SAFAQO_1.wav,S02 ,M,safaqo,safaqo,safaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_33-SAFAQO_2.wav,S02 ,M,safaqo,safaqo,safaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_33-SAFAQO_3.wav,S02 ,M,safaqo,safaqo,safaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_34-GHOSAQO_1.wav,S02 ,M,ghosaqo,ghosako,ghosako,0,1,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_34-GHOSAQO_2.wav,S02 ,M,ghosaqo,ghosako,ghosako,0,1,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_34-GHOSAQO_3.wav,S02 ,M,ghosaqo,ghosako,ghosako,0,1,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_35-NA'ASA_1.wav,S02 ,M,na'asa,na'asa,na'asa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_35-NA'ASA_2.wav,S02 ,M,na'asa,nalasa,nalasa,0,0,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_35-NA'ASA_3.wav,S02 ,M,na'asa,na'asa,na'asa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_36-SYAGHOLA_1.wav,S02 ,M,syaghola,syaghola,syaghola,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_36-SYAGHOLA_2.wav,S02 ,M,syaghola,syaghola,syaghola,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_36-SYAGHOLA_3.wav,S02 ,M,syaghola,syaghola,syaghola,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_37-KHASYARO_1.wav,S02 ,M,khasyaro,khasyaro,khasyaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_37-KHASYARO_2.wav,S02 ,M,khasyaro,khasyaro,khasyaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_37-KHASYARO_3.wav,S02 ,M,khasyaro,khasyaro,khasyaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_38-FAROSYA_1.wav,S02 ,M,farosya,farosya,farosya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_38-FAROSYA_2.wav,S02 ,M,farosya,farosya,farosya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_38-FAROSYA_3.wav,S02 ,M,farosya,farosya,farosya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_39-SHOROFA_1.wav,S02 ,M,shorofa,shorofa,shorofa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_39-SHOROFA_2.wav,S02 ,M,shorofa,shorofa,shorofa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_39-SHOROFA_3.wav,S02 ,M,shorofa,shorofa,shorofa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_40-NASHOKHA_1.wav,S02 ,M,nashokha,nashokha,nashokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_40-NASHOKHA_2.wav,S02 ,M,nashokha,nashokha,nashokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_40-NASHOKHA_3.wav,S02 ,M,nashokha,nashokha,nashokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_41-'ABASHO_1.wav,S02 ,M,'abasho,'abasa,'abasa,0,0,2,2,6
+wavlm_baseline,Skenario_1,S02 _M_41-'ABASHO_2.wav,S02 ,M,'abasho,'abasho,'abasho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_41-'ABASHO_3.wav,S02 ,M,'abasho,'abasho,'abasho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_42-DHOKHAMA_1.wav,S02 ,M,dhokhama,dhokhama,dhokhama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_42-DHOKHAMA_2.wav,S02 ,M,dhokhama,dhokhama,dhokhama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_42-DHOKHAMA_3.wav,S02 ,M,dhokhama,dhokhama,dhokhama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_43-WADHO'A_1.wav,S02 ,M,wadho'a,wadho'a,wadho'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_43-WADHO'A_2.wav,S02 ,M,wadho'a,wadho'a,wadho'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_43-WADHO'A_3.wav,S02 ,M,wadho'a,wadho'a,wadho'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_45-THOBAQO_1.wav,S02 ,M,thobaqo,thobaqo,thobaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_45-THOBAQO_2.wav,S02 ,M,thobaqo,thobaqo,thobaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_45-THOBAQO_3.wav,S02 ,M,thobaqo,thobaqo,thobaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_46-SYATHOYA_1.wav,S02 ,M,syathoya,syathoya,syathoya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_46-SYATHOYA_2.wav,S02 ,M,syathoya,syathoya,syathoya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_46-SYATHOYA_3.wav,S02 ,M,syathoya,syathoya,syathoya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_47-DHOFATHO_1.wav,S02 ,M,dhofatho,dhofatho,dhofatho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_47-DHOFATHO_2.wav,S02 ,M,dhofatho,dhofatho,dhofatho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_47-DHOFATHO_3.wav,S02 ,M,dhofatho,dhofatho,dhofatho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_48-ZHOJARO_1.wav,S02 ,M,zhojaro,zhojaro,zhojaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_48-ZHOJARO_2.wav,S02 ,M,zhojaro,zhojaro,zhojaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_48-ZHOJARO_3.wav,S02 ,M,zhojaro,zhojaro,zhojaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_49-KAZHOMA_1.wav,S02 ,M,kazhoma,kazhoma,kazhoma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_49-KAZHOMA_2.wav,S02 ,M,kazhoma,kazhoma,kazhoma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_49-KAZHOMA_3.wav,S02 ,M,kazhoma,kazhoma,kazhoma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_50-KHAFAZHO_1.wav,S02 ,M,khafazho,khafazho,khafazho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_50-KHAFAZHO_2.wav,S02 ,M,khafazho,khafazho,khafazho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_50-KHAFAZHO_3.wav,S02 ,M,khafazho,khafazho,khafazho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_51-A'HADA_1.wav,S02 ,M,a'hada,a'hada,a'hada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_51-A'HADA_2.wav,S02 ,M,a'hada,a'hada,a'hada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_51-A'HADA_3.wav,S02 ,M,a'hada,a'hada,a'hada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_52-MA'AKA_1.wav,S02 ,M,ma'aka,ma'aka,ma'aka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_52-MA'AKA_2.wav,S02 ,M,ma'aka,ma'aka,ma'aka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_52-MA'AKA_3.wav,S02 ,M,ma'aka,ma'aka,ma'aka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_53-THOLA'A_1.wav,S02 ,M,thola'a,thola'a,thola'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_53-THOLA'A_2.wav,S02 ,M,thola'a,thola'a,thola'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_53-THOLA'A_3.wav,S02 ,M,thola'a,thola'a,thola'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_54-GHOWADHO_1.wav,S02 ,M,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_54-GHOWADHO_2.wav,S02 ,M,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_54-GHOWADHO_3.wav,S02 ,M,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_55-YAGHODHO_1.wav,S02 ,M,yaghodho,yaghodho,yaghodho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_55-YAGHODHO_2.wav,S02 ,M,yaghodho,yaghodho,yaghodho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_55-YAGHODHO_3.wav,S02 ,M,yaghodho,yaghodho,yaghodho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_56-BALAGHO_1.wav,S02 ,M,balagho,balagho,balagho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_56-BALAGHO_2.wav,S02 ,M,balagho,balagho,balagho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_56-BALAGHO_3.wav,S02 ,M,balagho,balagho,balagho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_57-FAROGHO_1.wav,S02 ,M,farogho,farogho,farogho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_57-FAROGHO_2.wav,S02 ,M,farogho,farogho,farogho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_57-FAROGHO_3.wav,S02 ,M,farogho,farogho,farogho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_58-NAFALA_1.wav,S02 ,M,nafala,nafala,nafala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_58-NAFALA_2.wav,S02 ,M,nafala,nafala,nafala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_58-NAFALA_3.wav,S02 ,M,nafala,nafala,nafala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_59-NAWAFA_1.wav,S02 ,M,nawafa,nawafa,nawafa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_59-NAWAFA_2.wav,S02 ,M,nawafa,nawafa,nawafa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_59-NAWAFA_3.wav,S02 ,M,nawafa,nawafa,nawafa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_60-QOHARO_1.wav,S02 ,M,qoharo,qoharo,qoharo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_60-QOHARO_2.wav,S02 ,M,qoharo,qoharo,qoharo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_60-QOHARO_3.wav,S02 ,M,qoharo,qoharo,qoharo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_61-WAQOBA_1.wav,S02 ,M,waqoba,waqoba,waqoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_61-WAQOBA_2.wav,S02 ,M,waqoba,waqoba,waqoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_61-WAQOBA_3.wav,S02 ,M,waqoba,waqoba,waqoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_62-ROHAQO_1.wav,S02 ,M,rohaqo,rohaqo,rohaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_62-ROHAQO_2.wav,S02 ,M,rohaqo,rohaqo,rohaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_62-ROHAQO_3.wav,S02 ,M,rohaqo,rohaqo,rohaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_63-KAHALA_1.wav,S02 ,M,kahala,kahala,kahala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_63-KAHALA_2.wav,S02 ,M,kahala,kahala,kahala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_63-KAHALA_3.wav,S02 ,M,kahala,kahala,kahala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_64-SAKATA_1.wav,S02 ,M,sakata,sakata,sakata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_64-SAKATA_2.wav,S02 ,M,sakata,sakata,sakata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_64-SAKATA_3.wav,S02 ,M,sakata,sakata,sakata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_65-FATAQO_1.wav,S02 ,M,fataqo,fataqo,fataqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_65-FATAQO_2.wav,S02 ,M,fataqo,fataqo,fataqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_65-FATAQO_3.wav,S02 ,M,fataqo,fataqo,fataqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_66-LAHABA_1.wav,S02 ,M,lahaba,wahaba,wahaba,0,0,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_66-LAHABA_2.wav,S02 ,M,lahaba,lahaba,lahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_66-LAHABA_3.wav,S02 ,M,lahaba,lahaba,lahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_67-QOLAMA_1.wav,S02 ,M,qolama,qolama,qolama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_67-QOLAMA_2.wav,S02 ,M,qolama,qolama,qolama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_67-QOLAMA_3.wav,S02 ,M,qolama,qolama,qolama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_68-SAALA_1.wav,S02 ,M,saala,saala,saala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S02 _M_68-SAALA_2.wav,S02 ,M,saala,sa'ala,sa'ala,0,0,1,1,5
+wavlm_baseline,Skenario_1,S02 _M_68-SAALA_3.wav,S02 ,M,saala,sa'ala,sa'ala,0,0,1,1,5
+wavlm_baseline,Skenario_1,S02 _M_69-MALAKA_1.wav,S02 ,M,malaka,malaka,malaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_69-MALAKA_2.wav,S02 ,M,malaka,malaka,malaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_69-MALAKA_3.wav,S02 ,M,malaka,malaka,malaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_70-'AMADA_1.wav,S02 ,M,'amada,'amada,'amada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_70-'AMADA_2.wav,S02 ,M,'amada,'amada,'amada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_70-'AMADA_3.wav,S02 ,M,'amada,'amada,'amada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_71-ZHOLAMA_1.wav,S02 ,M,zholama,zholama,zholama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_71-ZHOLAMA_2.wav,S02 ,M,zholama,zholama,zholama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_71-ZHOLAMA_3.wav,S02 ,M,zholama,zholama,zholama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_72-NAFAKHA_1.wav,S02 ,M,nafakha,nafakha,nafakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_72-NAFAKHA_2 (1).wav,S02 ,M,nafakha,nafakha,nafakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_72-NAFAKHA_2.wav,S02 ,M,nafakha,nafakha,nafakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_72-NAFAKHA_3.wav,S02 ,M,nafakha,nafakha,nafakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_73-'ANAQO_1.wav,S02 ,M,'anaqo,'anaqo,'anaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_73-'ANAQO_2.wav,S02 ,M,'anaqo,'anaqo,'anaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_73-'ANAQO_3.wav,S02 ,M,'anaqo,'anaqo,'anaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_74-KHASANA_1.wav,S02 ,M,khasana,khasana,khasana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_74-KHASANA_2.wav,S02 ,M,khasana,khasana,khasana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_74-KHASANA_3.wav,S02 ,M,khasana,khasana,khasana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_75-WAZAKA_1.wav,S02 ,M,wazaka,wazaka,wazaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_75-WAZAKA_2.wav,S02 ,M,wazaka,wazaka,wazaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_75-WAZAKA_3.wav,S02 ,M,wazaka,wazaka,wazaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_76-GHOWADHO_1.wav,S02 ,M,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_76-GHOWADHO_2.wav,S02 ,M,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_76-GHOWADHO_3.wav,S02 ,M,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_77-FATAYA_1.wav,S02 ,M,fataya,fataya,fataya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_77-FATAYA_2.wav,S02 ,M,fataya,fataya,fataya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_77-FATAYA_3.wav,S02 ,M,fataya,fataya,fataya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_78-WAYARO_1.wav,S02 ,M,wayaro,wasyaro,wasyaro,0,0,1,1,6
+wavlm_baseline,Skenario_1,S02 _M_78-WAYARO_2.wav,S02 ,M,wayaro,wayaro,wayaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_78-WAYARO_3.wav,S02 ,M,wayaro,wayaro,wayaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_79-YADAKA_1.wav,S02 ,M,yadaka,yadaka,yadaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_79-YADAKA_2.wav,S02 ,M,yadaka,yadaka,yadaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_79-YADAKA_3.wav,S02 ,M,yadaka,yadaka,yadaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S02 _M_80-LASAALA_1.wav,S02 ,M,lasaala,lasaala,lasaala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_80-LASAALA_2.wav,S02 ,M,lasaala,lasaala,lasaala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_80-LASAALA_3.wav,S02 ,M,lasaala,lasaala,lasaala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_81-LADHOLALA_1.wav,S02 ,M,ladholala,ladholala,ladholala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_81-LADHOLALA_2.wav,S02 ,M,ladholala,ladholala,ladholala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_81-LADHOLALA_3.wav,S02 ,M,ladholala,ladholala,ladholala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_82-LANABAA_1.wav,S02 ,M,lanabaa,lanabaa,lanabaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_82-LANABAA_2.wav,S02 ,M,lanabaa,lanabaa,lanabaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_82-LANABAA_3.wav,S02 ,M,lanabaa,lanabaa,lanabaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_83-WAMALAA_1.wav,S02 ,M,wamalaa,wamalaa,wamalaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_83-WAMALAA_2.wav,S02 ,M,wamalaa,wamalaa,wamalaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_83-WAMALAA_3.wav,S02 ,M,wamalaa,wamalaa,wamalaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_84-LAAKALA_1.wav,S02 ,M,laakala,laakala,laakala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_84-LAAKALA_2.wav,S02 ,M,laakala,laakala,laakala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_84-LAAKALA_3.wav,S02 ,M,laakala,laakala,laakala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_85-FABALAGHO_1.wav,S02 ,M,fabalagho,fabalagho,fabalagho,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_85-FABALAGHO_2.wav,S02 ,M,fabalagho,fabalagho,fabalagho,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_85-FABALAGHO_3.wav,S02 ,M,fabalagho,fabalagho,fabalagho,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_86-LASALAKA_1.wav,S02 ,M,lasalaka,lasalaka,lasalaka,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_86-LASALAKA_2.wav,S02 ,M,lasalaka,lasalaka,lasalaka,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_86-LASALAKA_3.wav,S02 ,M,lasalaka,lasalaka,lasalaka,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_87-WAKHOTHOA_1.wav,S02 ,M,wakhothoa,wakhothoa,wakhothoa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_87-WAKHOTHOA_2.wav,S02 ,M,wakhothoa,wakhothoa,wakhothoa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_87-WAKHOTHOA_3.wav,S02 ,M,wakhothoa,wakhothoa,wakhothoa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_88-WAKHOLAA_1.wav,S02 ,M,wakholaa,wakholaa,wakholaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_88-WAKHOLAA_2.wav,S02 ,M,wakholaa,wakholaa,wakholaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_88-WAKHOLAA_3.wav,S02 ,M,wakholaa,wakholaa,wakholaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_89-SAALAKA_1.wav,S02 ,M,saalaka,saalaka,saalaka,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_89-SAALAKA_2.wav,S02 ,M,saalaka,saalaka,saalaka,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_89-SAALAKA_3.wav,S02 ,M,saalaka,saalaka,saalaka,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_90-LALAAMA_1.wav,S02 ,M,lalaama,lalaama,lalaama,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_90-LALAAMA_2.wav,S02 ,M,lalaama,lalaama,lalaama,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_90-LALAAMA_3.wav,S02 ,M,lalaama,lalaama,lalaama,1,1,0,0,7
+wavlm_baseline,Skenario_1,S02 _M_91-WAKHALALA_1.wav,S02 ,M,wakhalala,wakhalala,wakhalala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_91-WAKHALALA_2.wav,S02 ,M,wakhalala,wakhalala,wakhalala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S02 _M_91-WAKHALALA_3.wav,S02 ,M,wakhalala,wakhalala,wakhalala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_01-AKALA_1.wav,S09,F,akala,akala,akala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_01-AKALA_2.wav,S09,F,akala,akala,akala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_01-AKALA_3.wav,S09,F,akala,akala,akala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_02-YAABA_1.wav,S09,F,yaaba,yaaba,yaaba,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_02-YAABA_2.wav,S09,F,yaaba,yaaba,yaaba,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_02-YAABA_3.wav,S09,F,yaaba,yaaba,yaaba,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_03-NABAA_1.wav,S09,F,nabaa,nabaa,nabaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_03-NABAA_2.wav,S09,F,nabaa,nabaa,nabaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_03-NABAA_3.wav,S09,F,nabaa,nazaa,nazaa,0,0,1,1,5
+wavlm_baseline,Skenario_1,S09_F_04-BANANA_1.wav,S09,F,banana,banana,banana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_04-BANANA_2.wav,S09,F,banana,banana,banana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_04-BANANA_3.wav,S09,F,banana,banana,banana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_05-NABABA_1.wav,S09,F,nababa,nababa,nababa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_05-NABABA_2.wav,S09,F,nababa,nababa,nababa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_05-NABABA_3.wav,S09,F,nababa,nababa,nababa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_06-NATABA_1.wav,S09,F,nataba,nataba,nataba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_06-NATABA_2.wav,S09,F,nataba,nataba,nataba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_06-NATABA_3.wav,S09,F,nataba,nataba,nataba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_07-TABANA_1.wav,S09,F,tabana,tabana,tabana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_07-TABANA_2.wav,S09,F,tabana,tabana,tabana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_07-TABANA_3.wav,S09,F,tabana,tabana,tabana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_08-BATARO_1.wav,S09,F,bataro,bataro,bataro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_08-BATARO_2.wav,S09,F,bataro,bataro,bataro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_08-BATARO_3.wav,S09,F,bataro,bataro,bataro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_09-BANATA_1.wav,S09,F,banata,banata,banata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_09-BANATA_2.wav,S09,F,banata,banata,banata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_09-BANATA_3.wav,S09,F,banata,banata,banata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_10-TSABATA_1.wav,S09,F,tsabata,tsabata,tsabata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_10-TSABATA_2.wav,S09,F,tsabata,tsabata,tsabata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_10-TSABATA_3.wav,S09,F,tsabata,tsabata,tsabata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_11-TATSABA_1.wav,S09,F,tatsaba,tatsaba,tatsaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_11-TATSABA_2.wav,S09,F,tatsaba,tatsaba,tatsaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_11-TATSABA_3.wav,S09,F,tatsaba,tatsaba,tatsaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_12-ATSATSA_1.wav,S09,F,atsatsa,atsatsa,atsatsa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_12-ATSATSA_2.wav,S09,F,atsatsa,atsatsa,atsatsa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_12-ATSATSA_3.wav,S09,F,atsatsa,atsatsa,atsatsa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_13-JAROMA_1.wav,S09,F,jaroma,jaroma,jaroma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_13-JAROMA_2.wav,S09,F,jaroma,jaroma,jaroma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_13-JAROMA_3.wav,S09,F,jaroma,jaroma,jaroma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_14-KHAJARO_1.wav,S09,F,khajaro,khajaro,khajaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_14-KHAJARO_2.wav,S09,F,khajaro,khajaro,khajaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_14-KHAJARO_3.wav,S09,F,khajaro,khajaro,khajaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_15-SAHAJA_1.wav,S09,F,sahaja,sahaja,sahaja,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_15-SAHAJA_2.wav,S09,F,sahaja,sahaja,sahaja,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_15-SAHAJA_3.wav,S09,F,sahaja,sahaja,sahaja,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_16-KHADARO_1.wav,S09,F,khadaro,khadaro,khadaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_16-KHADARO_2.wav,S09,F,khadaro,khadaro,khadaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_16-KHADARO_3.wav,S09,F,khadaro,khadaro,khadaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_17-DHOKHAKA_1.wav,S09,F,dhokhaka,dhokhaka,dhokhaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_17-DHOKHAKA_2.wav,S09,F,dhokhaka,dhokhata,dhokhata,0,0,1,1,6
+wavlm_baseline,Skenario_1,S09_F_17-DHOKHAKA_3.wav,S09,F,dhokhaka,dhokhata,dhokhata,0,0,1,1,6
+wavlm_baseline,Skenario_1,S09_F_18-FATAKHA_1.wav,S09,F,fatakha,fatakha,fatakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_18-FATAKHA_2.wav,S09,F,fatakha,fatakha,fatakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_18-FATAKHA_3.wav,S09,F,fatakha,fatakha,fatakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_19-KHOTHOBA_1.wav,S09,F,khothoba,khothoba,khothoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_19-KHOTHOBA_2.wav,S09,F,khothoba,khothoba,khothoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_19-KHOTHOBA_3.wav,S09,F,khothoba,khothoba,khothoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_20-ROKHOQO_1.wav,S09,F,rokhoqo,rokhoqo,rokhoqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_20-ROKHOQO_2.wav,S09,F,rokhoqo,rokhoqo,rokhoqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_20-ROKHOQO_3.wav,S09,F,rokhoqo,rokhoqo,rokhoqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_21-DANATA_1.wav,S09,F,danata,danata,danata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_21-DANATA_2.wav,S09,F,danata,danata,danata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_21-DANATA_3.wav,S09,F,danata,danata,danata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_22-YADANA_1.wav,S09,F,yadana,yadana,yadana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_22-YADANA_2.wav,S09,F,yadana,yadana,yadana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_22-YADANA_3.wav,S09,F,yadana,yadana,yadana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_23-WANADA_1.wav,S09,F,wanada,wanada,wanada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_23-WANADA_2.wav,S09,F,wanada,wanada,wanada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_23-WANADA_3.wav,S09,F,wanada,wanada,wanada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_24-DZAHABA_1.wav,S09,F,dzahaba,dzahaba,dzahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_24-DZAHABA_2.wav,S09,F,dzahaba,dzahaba,dzahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_24-DZAHABA_3.wav,S09,F,dzahaba,dzahaba,dzahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_25-NADZARO_1.wav,S09,F,nadzaro,nadzaro,nadzaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_25-NADZARO_2.wav,S09,F,nadzaro,nadzaro,nadzaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_25-NADZARO_3.wav,S09,F,nadzaro,nadzaro,nadzaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_26-NABADZA_1.wav,S09,F,nabadza,nabadza,nabadza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_26-NABADZA_2.wav,S09,F,nabadza,nabadza,nabadza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_26-NABADZA_3.wav,S09,F,nabadza,nabadza,nabadza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_27-ROBANA_1.wav,S09,F,robana,robana,robana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_27-ROBANA_2.wav,S09,F,robana,robana,robana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_27-ROBANA_3.wav,S09,F,robana,robana,robana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_28-DZAROKHA_1.wav,S09,F,dzarokha,dzarokha,dzarokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_28-DZAROKHA_2.wav,S09,F,dzarokha,dzarokha,dzarokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_28-DZAROKHA_3.wav,S09,F,dzarokha,dzarokha,dzarokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_29-BADARO_1.wav,S09,F,badaro,badaro,badaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_29-BADARO_2.wav,S09,F,badaro,badaro,badaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_29-BADARO_3.wav,S09,F,badaro,badaro,badaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_30-ZAKAA_1.wav,S09,F,zakaa,zakaa,zakaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_30-ZAKAA_2.wav,S09,F,zakaa,zakaa,zakaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_30-ZAKAA_3.wav,S09,F,zakaa,zakaa,zakaa,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_31-NAZALA_1.wav,S09,F,nazala,nazala,nazala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_31-NAZALA_2.wav,S09,F,nazala,nazala,nazala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_31-NAZALA_3.wav,S09,F,nazala,nazala,nazala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_32-GHOYAZA_1.wav,S09,F,ghoyaza,ghoyaza,ghoyaza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_32-GHOYAZA_2.wav,S09,F,ghoyaza,ghoyaza,ghoyaza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_32-GHOYAZA_3.wav,S09,F,ghoyaza,ghoyaza,ghoyaza,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_33-SAFAQO_1.wav,S09,F,safaqo,safaqo,safaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_33-SAFAQO_2.wav,S09,F,safaqo,safaqo,safaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_33-SAFAQO_3.wav,S09,F,safaqo,safaqo,safaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_34-GHOSAQO_1.wav,S09,F,ghosaqo,ghosaqo,ghosaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_34-GHOSAQO_2.wav,S09,F,ghosaqo,ghosaqo,ghosaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_34-GHOSAQO_3.wav,S09,F,ghosaqo,ghosaqo,ghosaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_35-NA'ASA_1.wav,S09,F,na'asa,naasa,naasa,0,1,1,1,6
+wavlm_baseline,Skenario_1,S09_F_35-NA'ASA_2.wav,S09,F,na'asa,na'asa,na'asa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_35-NA'ASA_3.wav,S09,F,na'asa,na'asa,na'asa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_36-SYAGHOLA_1.wav,S09,F,syaghola,syaghola,syaghola,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_36-SYAGHOLA_2.wav,S09,F,syaghola,syaghola,syaghola,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_36-SYAGHOLA_3.wav,S09,F,syaghola,syaghola,syaghola,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_37-KHASYARO_1.wav,S09,F,khasyaro,khasyaro,khasyaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_37-KHASYARO_2.wav,S09,F,khasyaro,khasyaro,khasyaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_37-KHASYARO_3.wav,S09,F,khasyaro,khasyaro,khasyaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_38-FAROSYA_1.wav,S09,F,farosya,farosya,farosya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_38-FAROSYA_2.wav,S09,F,farosya,farosya,farosya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_38-FAROSYA_3.wav,S09,F,farosya,farosya,farosya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_39-SHOROFA_1.wav,S09,F,shorofa,shorofa,shorofa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_39-SHOROFA_2.wav,S09,F,shorofa,shorofa,shorofa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_39-SHOROFA_3.wav,S09,F,shorofa,shorofa,shorofa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_40-NASHOKHA_1.wav,S09,F,nashokha,nashokha,nashokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_40-NASHOKHA_2.wav,S09,F,nashokha,nashokha,nashokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_40-NASHOKHA_3.wav,S09,F,nashokha,nashokha,nashokha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_41-'ABASHO_1.wav,S09,F,'abasho,'abasho,'abasho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_41-'ABASHO_2.wav,S09,F,'abasho,abasho,abasho,0,1,1,1,6
+wavlm_baseline,Skenario_1,S09_F_41-'ABASHO_3.wav,S09,F,'abasho,'abasho,'abasho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_42-DHOKHAMA_1.wav,S09,F,dhokhama,dhokhama,dhokhama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_42-DHOKHAMA_2.wav,S09,F,dhokhama,dhokhama,dhokhama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_42-DHOKHAMA_3.wav,S09,F,dhokhama,dhokhama,dhokhama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_43-WADHO'A_1.wav,S09,F,wadho'a,wadho'a,wadho'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_43-WADHO'A_2.wav,S09,F,wadho'a,wadho'a,wadho'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_43-WADHO'A_3.wav,S09,F,wadho'a,wadho'a,wadho'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_45-THOBAQO_1.wav,S09,F,thobaqo,thobaqo,thobaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_45-THOBAQO_2.wav,S09,F,thobaqo,thobaqo,thobaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_45-THOBAQO_3.wav,S09,F,thobaqo,thobaqo,thobaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_46-SYATHOYA_1.wav,S09,F,syathoya,syathoya,syathoya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_46-SYATHOYA_2.wav,S09,F,syathoya,syathoya,syathoya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_46-SYATHOYA_3.wav,S09,F,syathoya,syathoya,syathoya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_47-DHOGHOTHO_1.wav,S09,F,dhoghotho,dhowhatho,dhowhatho,0,0,2,3,6
+wavlm_baseline,Skenario_1,S09_F_47-DHOGHOTHO_2.wav,S09,F,dhoghotho,dhoghotho,dhoghotho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_47-DHOGHOTHO_3.wav,S09,F,dhoghotho,dhoghotho,dhoghotho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_48-ZHOJARO_1.wav,S09,F,zhojaro,zhojaro,zhojaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_48-ZHOJARO_2.wav,S09,F,zhojaro,zhojaro,zhojaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_48-ZHOJARO_3.wav,S09,F,zhojaro,zhojaro,zhojaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_49-KAZHOMA_1.wav,S09,F,kazhoma,kazhoma,kazhoma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_49-KAZHOMA_2.wav,S09,F,kazhoma,kazhoma,kazhoma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_49-KAZHOMA_3.wav,S09,F,kazhoma,kazhoma,kazhoma,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_50-KHAFAZHO_1.wav,S09,F,khafazho,khafazho,khafazho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_50-KHAFAZHO_2.wav,S09,F,khafazho,khafazho,khafazho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_50-KHAFAZHO_3.wav,S09,F,khafazho,khafazho,khafazho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_51-A'HARO_1.wav,S09,F,a'haro,a'haro,a'haro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_51-A'HARO_2.wav,S09,F,a'haro,a'haro,a'haro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_51-A'HARO_3.wav,S09,F,a'haro,a'haro,a'haro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_52-MA'AKA_1.wav,S09,F,ma'aka,maaka,maaka,0,1,1,1,6
+wavlm_baseline,Skenario_1,S09_F_52-MA'AKA_2.wav,S09,F,ma'aka,ma'aka,ma'aka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_52-MA'AKA_3.wav,S09,F,ma'aka,ma'aka,ma'aka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_53-THOLA'A_1.wav,S09,F,thola'a,thola'a,thola'a,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_53-THOLA'A_2.wav,S09,F,thola'a,tholaa,tholaa,0,1,1,1,6
+wavlm_baseline,Skenario_1,S09_F_53-THOLA'A_3.wav,S09,F,thola'a,tholaa,tholaa,0,1,1,1,6
+wavlm_baseline,Skenario_1,S09_F_54-GHOWADHO_1.wav,S09,F,ghowadho,ghofadho,ghofadho,0,0,1,1,6
+wavlm_baseline,Skenario_1,S09_F_54-GHOWADHO_2.wav,S09,F,ghowadho,whofadho,whofadho,0,0,2,3,6
+wavlm_baseline,Skenario_1,S09_F_54-GHOWADHO_3.wav,S09,F,ghowadho,ghofadho,ghofadho,0,0,1,1,6
+wavlm_baseline,Skenario_1,S09_F_55-YAGHODHO_1.wav,S09,F,yaghodho,yaghodho,yaghodho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_55-YAGHODHO_2.wav,S09,F,yaghodho,yaghodho,yaghodho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_55-YAGHODHO_3.wav,S09,F,yaghodho,yaghodho,yaghodho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_56-BALAGHO_1.wav,S09,F,balagho,balagho,balagho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_56-BALAGHO_2.wav,S09,F,balagho,balagho,balagho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_56-BALAGHO_3.wav,S09,F,balagho,balagho,balagho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_57-FAROGHO_1.wav,S09,F,farogho,farogho,farogho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_57-FAROGHO_2.wav,S09,F,farogho,farogho,farogho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_57-FAROGHO_3.wav,S09,F,farogho,farogho,farogho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_58-NAFALA_1.wav,S09,F,nafala,nafala,nafala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_58-NAFALA_2.wav,S09,F,nafala,nafala,nafala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_58-NAFALA_3.wav,S09,F,nafala,nafala,nafala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_59-NAWAFA_1.wav,S09,F,nawafa,nawafa,nawafa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_59-NAWAFA_2.wav,S09,F,nawafa,nawafa,nawafa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_59-NAWAFA_3.wav,S09,F,nawafa,nawafa,nawafa,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_60-QOHARO_1.wav,S09,F,qoharo,qoharo,qoharo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_60-QOHARO_2.wav,S09,F,qoharo,qoharo,qoharo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_60-QOHARO_3.wav,S09,F,qoharo,qoharo,qoharo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_61-WAQOBA_1.wav,S09,F,waqoba,waqoba,waqoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_61-WAQOBA_2.wav,S09,F,waqoba,waqoba,waqoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_61-WAQOBA_3.wav,S09,F,waqoba,waqoba,waqoba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_62-ROHAQO_1.wav,S09,F,rohaqo,rohaqo,rohaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_62-ROHAQO_2.wav,S09,F,rohaqo,rohaqo,rohaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_62-ROHAQO_3.wav,S09,F,rohaqo,rohaqo,rohaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_63-KAHALA_1.wav,S09,F,kahala,kahala,kahala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_63-KAHALA_2.wav,S09,F,kahala,kahala,kahala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_63-KAHALA_3.wav,S09,F,kahala,kahala,kahala,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_64-SAKATA_1.wav,S09,F,sakata,sakata,sakata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_64-SAKATA_2.wav,S09,F,sakata,sakata,sakata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_64-SAKATA_3.wav,S09,F,sakata,sakata,sakata,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_65-FATAKA_1.wav,S09,F,fataka,fataka,fataka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_65-FATAKA_2.wav,S09,F,fataka,fataka,fataka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_65-FATAKA_3.wav,S09,F,fataka,fataka,fataka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_66-LAHABA_1.wav,S09,F,lahaba,lahaba,lahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_66-LAHABA_2.wav,S09,F,lahaba,lahaba,lahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_66-LAHABA_3.wav,S09,F,lahaba,lahaba,lahaba,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_67-QOLAMA_1.wav,S09,F,qolama,qolama,qolama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_67-QOLAMA_2.wav,S09,F,qolama,qolama,qolama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_67-QOLAMA_3.wav,S09,F,qolama,tholama,tholama,0,0,2,1,6
+wavlm_baseline,Skenario_1,S09_F_68-SAALA_1.wav,S09,F,saala,saala,saala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_68-SAALA_2.wav,S09,F,saala,saala,saala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_68-SAALA_3.wav,S09,F,saala,saala,saala,1,1,0,0,5
+wavlm_baseline,Skenario_1,S09_F_69-MALAKA_1.wav,S09,F,malaka,malaka,malaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_69-MALAKA_2.wav,S09,F,malaka,malaka,malaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_69-MALAKA_3.wav,S09,F,malaka,malaka,malaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_70-'AMADA_1.wav,S09,F,'amada,'amada,'amada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_70-'AMADA_2.wav,S09,F,'amada,'amada,'amada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_70-'AMADA_3.wav,S09,F,'amada,'amada,'amada,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_71-ZHOLAMA_1.wav,S09,F,zholama,zholama,zholama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_71-ZHOLAMA_2.wav,S09,F,zholama,zholama,zholama,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_71-ZHOLAMA_3.wav,S09,F,zholama,dholaba,dholaba,0,0,2,2,6
+wavlm_baseline,Skenario_1,S09_F_72-NAFAKHA_1.wav,S09,F,nafakha,nafakha,nafakha,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_72-NAFAKHA_2.wav,S09,F,nafakha,nasakha,nasakha,0,0,1,1,6
+wavlm_baseline,Skenario_1,S09_F_72-NAFAKHA_3.wav,S09,F,nafakha,nasaha,nasaha,0,0,2,2,6
+wavlm_baseline,Skenario_1,S09_F_73-'ANAQO_1.wav,S09,F,'anaqo,anaqo,anaqo,0,1,1,1,6
+wavlm_baseline,Skenario_1,S09_F_73-'ANAQO_2.wav,S09,F,'anaqo,'anaqo,'anaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_73-'ANAQO_3.wav,S09,F,'anaqo,'anaqo,'anaqo,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_74-KHASANA_1.wav,S09,F,khasana,khasana,khasana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_74-KHASANA_2.wav,S09,F,khasana,khasana,khasana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_74-KHASANA_3.wav,S09,F,khasana,khasana,khasana,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_75-WAZAKA_1.wav,S09,F,wazaka,wazaka,wazaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_75-WAZAKA_2.wav,S09,F,wazaka,wazaka,wazaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_75-WAZAKA_3.wav,S09,F,wazaka,wazaka,wazaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_76-GHOWADHO_1.wav,S09,F,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_76-GHOWADHO_2.wav,S09,F,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_76-GHOWADHO_3.wav,S09,F,ghowadho,ghowadho,ghowadho,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_77-YADAKA_1.wav,S09,F,yadaka,yadaka,yadaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_77-YADAKA_2.wav,S09,F,yadaka,yadaka,yadaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_77-YADAKA_3.wav,S09,F,yadaka,yadaka,yadaka,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_78-WAYARO_1.wav,S09,F,wayaro,wayaro,wayaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_78-WAYARO_2.wav,S09,F,wayaro,wayaro,wayaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_78-WAYARO_3.wav,S09,F,wayaro,wayaro,wayaro,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_79-FATAYA_1.wav,S09,F,fataya,fataya,fataya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_79-FATAYA_2.wav,S09,F,fataya,fataya,fataya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_79-FATAYA_3.wav,S09,F,fataya,fataya,fataya,1,1,0,0,6
+wavlm_baseline,Skenario_1,S09_F_80-LASAALA_1.wav,S09,F,lasaala,lasaala,lasaala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_80-LASAALA_2.wav,S09,F,lasaala,lasaala,lasaala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_80-LASAALA_3.wav,S09,F,lasaala,nasaala,nasaala,0,0,1,1,7
+wavlm_baseline,Skenario_1,S09_F_81-LADHOLALA_1.wav,S09,F,ladholala,ladholala,ladholala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_81-LADHOLALA_2.wav,S09,F,ladholala,ladholala,ladholala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_81-LADHOLALA_3.wav,S09,F,ladholala,ladholala,ladholala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_82-LANABAA_1.wav,S09,F,lanabaa,lanabaa,lanabaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_82-LANABAA_2.wav,S09,F,lanabaa,lanabaa,lanabaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_82-LANABAA_3.wav,S09,F,lanabaa,lanabaa,lanabaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_83-WAMALAA_1.wav,S09,F,wamalaa,wamalaa,wamalaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_83-WAMALAA_2.wav,S09,F,wamalaa,wamalaa,wamalaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_83-WAMALAA_3.wav,S09,F,wamalaa,wamalaa,wamalaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_84-LAAKALA_1.wav,S09,F,laakala,laakala,laakala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_84-LAAKALA_2.wav,S09,F,laakala,laakala,laakala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_84-LAAKALA_3.wav,S09,F,laakala,laakala,laakala,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_85-FABALAGHO_1.wav,S09,F,fabalagho,fabalagho,fabalagho,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_85-FABALAGHO_2.wav,S09,F,fabalagho,fabalagho,fabalagho,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_85-FABALAGHO_3.wav,S09,F,fabalagho,fabalagho,fabalagho,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_86-LASALAKA_1.wav,S09,F,lasalaka,lasalaka,lasalaka,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_86-LASALAKA_2.wav,S09,F,lasalaka,lasalaka,lasalaka,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_86-LASALAKA_3.wav,S09,F,lasalaka,lasalaka,lasalaka,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_87-WAKHOTHOA_1.wav,S09,F,wakhothoa,wakhothoa,wakhothoa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_87-WAKHOTHOA_2.wav,S09,F,wakhothoa,wakhothoa,wakhothoa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_87-WAKHOTHOA_3.wav,S09,F,wakhothoa,wakhothoa,wakhothoa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_88-WAKHOLAA_1.wav,S09,F,wakholaa,wakholaa,wakholaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_88-WAKHOLAA_2.wav,S09,F,wakholaa,wakholaa,wakholaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_88-WAKHOLAA_3.wav,S09,F,wakholaa,wakholaa,wakholaa,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_89-SAALAKA_1.wav,S09,F,saalaka,saalaka,saalaka,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_89-SAALAKA_2.wav,S09,F,saalaka,saalaka,saalaka,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_89-SAALAKA_3.wav,S09,F,saalaka,saalaka,saalaka,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_90-LALAAMA_1.wav,S09,F,lalaama,lalaama,lalaama,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_90-LALAAMA_2.wav,S09,F,lalaama,lalaama,lalaama,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_90-LALAAMA_3.wav,S09,F,lalaama,lalaama,lalaama,1,1,0,0,7
+wavlm_baseline,Skenario_1,S09_F_91-WAKHALALA_1.wav,S09,F,wakhalala,wakhalala,wakhalala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_91-WAKHALALA_2.wav,S09,F,wakhalala,wakhalala,wakhalala,1,1,0,0,8
+wavlm_baseline,Skenario_1,S09_F_91-WAKHALALA_3.wav,S09,F,wakhalala,wakhalala,wakhalala,1,1,0,0,8
