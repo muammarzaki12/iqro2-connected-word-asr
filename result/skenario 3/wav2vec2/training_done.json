@@ -1,0 +1,9 @@
+{
+  "model": "wav2vec2_logmel",
+  "finished_at": "2026-11-10T09:09:25",
+  "epochs_run": 30,
+  "best_epoch": 28,
+  "best_val_WER": 0.16483516483516483,
+  "best_val_accuracy": 0.8351648351648352,
+  "train_seconds": 859.9507162570953
+}
