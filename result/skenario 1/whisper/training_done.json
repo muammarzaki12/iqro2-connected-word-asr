@@ -1,0 +1,9 @@
+{
+  "model": "whisper_baseline",
+  "finished_at": "2026-11-09T14:49:06",
+  "epochs_run": 25,
+  "best_epoch": 15,
+  "best_val_WER": 0.12454212454212454,
+  "best_val_accuracy": 0.8754578754578755,
+  "train_seconds": 692.9411101341248
+}
