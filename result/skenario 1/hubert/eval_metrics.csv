@@ -1,0 +1,2 @@
+scenario,model,display_name,hf_id,feature,accuracy,SER,WER,word_accuracy,CER,PER,invalid_pred_rate,avg_inference_ms,n_test,n_classes,best_epoch,epochs_run,train_minutes,gpu,evaluated_at,PER_tanpa_digraf,phone_digraphs
+Skenario_1,hubert,hubert_baseline,facebook/hubert-base-ls960,baseline,0.8909426987060998,0.10905730129390023,0.10905730129390019,0.8909426987060998,0.01913613996719519,0.020550015110305228,0.07393715341959335,2.249046752315898,541,117,29,30,11.18,NVIDIA L4,2026-11-09T14:17:20,0.01913613996719519,"['kh', 'sy', 'sh', 'ts', 'th', 'dz', 'dh', 'zh', 'gh']"

@@ -1,0 +1,9 @@
+{
+  "model": "hubert_baseline",
+  "finished_at": "2026-11-09T14:17:16",
+  "epochs_run": 30,
+  "best_epoch": 29,
+  "best_val_WER": 0.21611721611721613,
+  "best_val_accuracy": 0.7838827838827839,
+  "train_seconds": 671.032609462738
+}
