@@ -1,0 +1,9 @@
+{
+  "model": "wav2vec2_mfcc",
+  "finished_at": "2026-11-09T15:09:57",
+  "epochs_run": 30,
+  "best_epoch": 21,
+  "best_val_WER": 0.16117216117216118,
+  "best_val_accuracy": 0.8388278388278388,
+  "train_seconds": 879.1305577754974
+}

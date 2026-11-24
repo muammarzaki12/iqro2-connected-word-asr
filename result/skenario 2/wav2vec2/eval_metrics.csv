@@ -1,0 +1,2 @@
+scenario,model,display_name,hf_id,feature,accuracy,SER,WER,word_accuracy,CER,PER,invalid_pred_rate,avg_inference_ms,n_test,n_classes,best_epoch,epochs_run,train_minutes,gpu,evaluated_at,PER_tanpa_digraf,phone_digraphs
+Skenario_2,wav2vec2,wav2vec2_mfcc,facebook/wav2vec2-base,mfcc,0.8743068391866913,0.12569316081330872,0.1256931608133087,0.8743068391866913,0.0259704756697649,0.03052281656089453,0.09796672828096119,2.7901683105350434,541,117,21,30,14.65,NVIDIA L4,2026-11-09T15:10:11,0.0259704756697649,"['kh', 'sy', 'sh', 'ts', 'th', 'dz', 'dh', 'zh', 'gh']"
