@@ -1,0 +1,9 @@
+{
+  "model": "wavlm_mfcc",
+  "finished_at": "2026-11-10T08:40:01",
+  "epochs_run": 30,
+  "best_epoch": 30,
+  "best_val_WER": 0.17216117216117216,
+  "best_val_accuracy": 0.8278388278388278,
+  "train_seconds": 788.9846904277802
+}

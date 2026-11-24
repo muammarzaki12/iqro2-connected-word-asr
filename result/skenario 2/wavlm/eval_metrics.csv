@@ -1,0 +1,2 @@
+scenario,model,display_name,hf_id,feature,accuracy,SER,WER,word_accuracy,CER,PER,invalid_pred_rate,avg_inference_ms,n_test,n_classes,best_epoch,epochs_run,train_minutes,gpu,evaluated_at,PER_tanpa_digraf,phone_digraphs
+Skenario_2,wavlm,wavlm_mfcc,microsoft/wavlm-base-plus,mfcc,0.911275415896488,0.08872458410351203,0.08872458410351201,0.911275415896488,0.01558228540185894,0.018434572378362043,0.07024029574861368,3.5885267763379773,541,117,30,30,13.15,NVIDIA L4,2026-11-10T08:40:06,0.01558228540185894,"['kh', 'sy', 'sh', 'ts', 'th', 'dz', 'dh', 'zh', 'gh']"
