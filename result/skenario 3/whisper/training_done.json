@@ -1,0 +1,9 @@
+{
+  "model": "whisper_logmel",
+  "finished_at": "2026-11-10T09:53:03",
+  "epochs_run": 20,
+  "best_epoch": 10,
+  "best_val_WER": 0.10989010989010989,
+  "best_val_accuracy": 0.8901098901098901,
+  "train_seconds": 621.5164892673492
+}

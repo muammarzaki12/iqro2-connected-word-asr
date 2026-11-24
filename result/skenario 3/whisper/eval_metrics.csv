@@ -1,0 +1,2 @@
+scenario,model,display_name,hf_id,feature,accuracy,SER,WER,word_accuracy,CER,PER,invalid_pred_rate,avg_inference_ms,n_test,n_classes,best_epoch,epochs_run,train_minutes,gpu,evaluated_at,PER_tanpa_digraf,phone_digraphs
+Skenario_3,whisper,whisper_logmel,openai/whisper-tiny,logmel,0.9149722735674677,0.08502772643253231,0.08502772643253234,0.9149722735674677,0.023783488244942592,0.0223632517376851,0.04066543438077634,7.282979362292427,541,117,10,20,10.36,NVIDIA L4,2026-11-10T09:53:32,0.023783488244942592,"['kh', 'sy', 'sh', 'ts', 'th', 'dz', 'dh', 'zh', 'gh']"
